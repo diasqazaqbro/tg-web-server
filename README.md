@@ -24,12 +24,12 @@ code . // open vs code
 
 Open env file
 
-![Script usage example](https://ibb.co.com/6sJRmNQ)
+![Script usage example](https://i.ibb.co.com/0JVjcQ5/Screenshot-2023-11-04-at-14-31-02.png)
 
 
 Change variable
 
-![Script usage example](https://ibb.co.com/D8S9GFv)
+![Script usage example](https://i.ibb.co.com/jW1yVYQ/Screenshot-2023-11-04-at-14-30-54.png)
 
 
 And then install the dependencies:
